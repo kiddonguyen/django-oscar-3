@@ -199,7 +199,7 @@ The following extensions are stable and ready for use:
 
 The following are community-written extensions:
 
-* django-oscar-payments_ - Pluggable payments for Oscar
+*[django-oscar-payments_](https://github.com/Lacrymology/django-oscar-payments) - Pluggable payments for Oscar
 * django-oscar-recurly_ - Integration with the Recurly payment gateway
 
 * django-oscar-przelewy24_ - Integration with the Przelewy24 payment gateway
