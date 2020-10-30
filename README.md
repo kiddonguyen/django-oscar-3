@@ -150,31 +150,31 @@ Extensions
 
 The following extensions are stable and ready for use:
 
-* django-oscar-api_ - RESTful JSON API for django-oscar
+* [`django-oscar-api`](https://github.com/django-oscar/django-oscar-api)- RESTful JSON API for django-oscar
 
-* django-oscar-adyen_ - Integration with the Adyen payment gateway
+* [django-oscar-adyen_](https://github.com/django-oscar/django-oscar-adyen) - Integration with the Adyen payment gateway
 
-* django-oscar-datacash_ - Integration with the DataCash_ payment gateway
+* [django-oscar-datacash_] (https://github.com/django-oscar/django-oscar-datacash) - Integration with the DataCash_ payment gateway
 
-* django-oscar-paypal_ - Integration with PayPal.  This currently supports both
+* [django-oscar-paypal_] - Integration with PayPal.  This currently supports both
   `Express Checkout`_ and `PayFlow Pro`_.
 
-* django-oscar-paymentexpress_ - Integration with the `Payment Express`_ payment
+* [django-oscar-paymentexpress_] (https://github.com/django-oscar/django-oscar-paymentexpress)- Integration with the `Payment Express`_ payment
   gateway
 
-* django-oscar-accounts_ - Managed accounts (can be used for giftcard
+* [django-oscar-accounts_] (https://github.com/django-oscar/django-oscar-accounts)- Managed accounts (can be used for giftcard
   functionality and loyalty schemes)
 
-* django-oscar-stores_ - Physical stores integration (opening hours, store
+* [django-oscar-stores_] (https://github.com/django-oscar/django-oscar-stores)- Physical stores integration (opening hours, store
   locator etc)
 
-* django-oscar-eway_ - Integration with the eWay_ payment gateway.
+* [django-oscar-eway_] (https://github.com/snowball-one/django-oscar-eway) - Integration with the eWay_ payment gateway.
 
-* django-oscar-sagepay-direct_ - Integration with "DIRECT" part of Sagepay's API
+* [django-oscar-sagepay-direct_] (https://github.com/django-oscar/django-oscar-sagepay-direct)- Integration with "DIRECT" part of Sagepay's API
 
-* django_oscar_docdata_ - Integration with Docdata_ payment gateway.
+* [django_oscar_docdata_] (https://www.docdatapayments.com/-) Integration with Docdata_ payment gateway.
 
-* django_oscar_invoices_ - Invoices or receipts generation for the
+* [django_oscar_invoices_] (https://github.com/django-oscar/django-oscar-invoices) - Invoices or receipts generation for the
   Oscar
 
 .. _django-oscar-api: https://github.com/django-oscar/django-oscar-api
