@@ -177,26 +177,6 @@ The following extensions are stable and ready for use:
 * [django_oscar_invoices_] (https://github.com/django-oscar/django-oscar-invoices) - Invoices or receipts generation for the
   Oscar
 
-.. _django-oscar-api: https://github.com/django-oscar/django-oscar-api
-.. _django-oscar-adyen: https://github.com/django-oscar/django-oscar-adyen
-.. _django-oscar-datacash: https://github.com/django-oscar/django-oscar-datacash
-.. _django-oscar-paymentexpress: https://github.com/django-oscar/django-oscar-paymentexpress
-.. _`Payment Express`: http://www.paymentexpress.com
-.. _DataCash: http://www.datacash.com/
-.. _django-oscar-paypal: https://github.com/django-oscar/django-oscar-paypal
-.. _`Express Checkout`: https://www.paypal.com/uk/cgi-bin/webscr?cmd=_additional-payment-ref-impl1
-.. _`PayFlow Pro`: https://merchant.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=merchant/payment_gateway
-.. _django-oscar-accounts: https://github.com/django-oscar/django-oscar-accounts
-.. _django-oscar-easyrec: https://github.com/django-oscar/django-oscar-easyrec
-.. _EasyRec: http://easyrec.org/
-.. _django-oscar-eway: https://github.com/snowball-one/django-oscar-eway
-.. _django-oscar-stores: https://github.com/django-oscar/django-oscar-stores
-.. _django-oscar-sagepay-direct: https://github.com/django-oscar/django-oscar-sagepay-direct
-.. _eWay: https://www.eway.com.au
-.. _django_oscar_docdata: https://github.com/django-oscar/django-oscar-docdata
-.. _Docdata: https://www.docdatapayments.com/
-.. _django_oscar_invoices: https://github.com/django-oscar/django-oscar-invoices
-
 The following are community-written extensions:
 
 *  https://github.com/Lacrymology/django-oscar-payments - Pluggable payments for Oscar
